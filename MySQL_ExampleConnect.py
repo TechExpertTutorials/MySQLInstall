@@ -1,8 +1,4 @@
 """
-conda create -n mysql-python
-conda activate mysql-python
-conda install python=3.8 mysql-connector-python pymysql sqlalchemy pandas mysqlclient=1.3.14 -c conda-forge
-
 conda create -n mysql-client
 conda activate mysql-client
 conda install python=3.7.12 mysql-connector-python pymysql sqlalchemy pandas jupyter ipykernel -c conda-forge
